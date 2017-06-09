@@ -1,3 +1,6 @@
+### Disclaimer
+A new version of the code is available in the final repository of the DR(eye)VE project. Thank you to [Andrea Palazzi](https://github.com/ndrplz) and [Davide Abati](https://github.com/DavideA) for wrapping it up: https://github.com/ndrplz/dreyeve.
+
 # Where should you attend while driving?
 ![alt text](https://raw.githubusercontent.com/cvpr17-id2919/driving/master/misc/img.png "Sample Image")
 
